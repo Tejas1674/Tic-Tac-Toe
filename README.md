@@ -4,7 +4,9 @@
 
 Welcome to the Tic Tac Toe Game! This project is a simple implementation of the classic Tic Tac Toe game in Python. You can play the game through the web interface hosted on Vercel.
 
-Live Project Link: [Tic Tac Toe Game](https://tictactoe-proj.vercel.app/)
+Live Project Link: https://tictactoe-proj.vercel.app/
+![Screenshot 2023-12-11 001612](https://github.com/Tejas1674/Tic-Tac-Toe/assets/94617576/cf70f158-a818-43a0-aff4-8b97400d1988)
+
 
 ## Features
 
